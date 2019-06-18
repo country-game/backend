@@ -1,0 +1,218 @@
+Afghanistan 2017 583.9
+Albania 2017 4,867.6
+Algeria	2017 4,820.4
+American Samoa : 9,090.4
+Andorra 2017 43,942.9
+Angola 2017 3,413.7
+Antigua and Barbuda 2017	13,548.2
+Argentina	2017	10,397.1
+Armenia	2017	4,219.4
+Aruba	2017	24,508.8
+Australia	2017	55,919.3
+Austria	2017	49,190.2
+Azerbaijan	2017	5,810.1
+Bahamas, The	2017	26,538.9
+Bahrain	2017	22,148.8
+Bangladesh	2017	1,093.0
+Barbados	2017	16,641.5
+Belarus	2017	6,529.0
+Belgium	2017	46,169.1
+Belize	2017	4,276.0
+Benin	2017	862.0
+Bermuda	2013	79,251.8
+Bhutan	2017	2,897.3
+Bolivia	2017	2,522.8
+Bosnia and Herzegovina	2017	5,569.8
+Botswana	2017	7,523.3
+Brazil	2017	10,913.8
+British Virgin Islands
+Brunei Darussalam	2017	31,439.9
+Bulgaria	2017	8,331.2
+Burkina Faso	2017	685.8
+Burundi	2017	213.4
+Cabo Verde	2017	3,571.4
+Cambodia	2017	1,137.2
+Cameroon	2017	1,511.8
+Canada	2017	51,315.9
+Cayman Islands
+Central African Republic	2017	335.0
+Chad	2017	823.4
+Channel Islands
+Chile	2017	15,059.5
+China	2017	7,329.1
+Colombia	2017	7,611.7
+Comoros	2017	1,355.5
+Congo, Dem. Rep.	2017	409.1
+Congo, Rep.	2017	2,616.6
+Costa Rica	2017	9,808.8
+Cote d'Ivoire	2017	1,625.7
+Croatia	2017	15,326.3
+Cuba	2017	6,580.3
+Curacao
+Cyprus	2017	30,031.7
+Czech Republic	2017	22,754.8
+Denmark	2017	62,356.8
+Djibouti	2010	1,326.0
+Dominica	2017	6,184.3
+Dominican Republic	2017	7,153.1
+Ecuador	2017	5,256.0
+Egypt, Arab Rep.	2017	2,785.2
+El Salvador	2017	3,463.5
+Equatorial Guinea	2017	11,287.9
+Eritrea	2011	514.2
+Estonia	2017	19,257.5
+Eswatini	2017	3,980.6
+Ethiopia	2017	549.8
+Faroe Islands	2010	47,397.9
+Fiji	2017	4,323.0
+Finland	2017	47,558.9
+France	2017	42,838.1
+French Polynesia
+Gabon	2017	9,385.8
+Gambia, The	2017	528.3
+Georgia	2017	4,271.4
+Germany	2017	46,971.4
+Ghana	2017	1,755.6
+Gibraltar
+Greece	2017	23,055.4
+Greenland	2016	50,255.1
+Grenada	2017	9,077.3
+Guam	2017	31,857.7
+Guatemala	2017	3,124.2
+Guinea	2017	824.1
+Guinea-Bissau	2017	603.5
+Guyana	2017	3,871.4
+Haiti	2017	728.9
+Honduras	2017	2,210.6
+Hong Kong SAR, China	2017	37,927.1
+Hungary	2017	15,695.7
+Iceland	2017	50,998.2
+India	2017	1,986.6
+Indonesia	2017	4,130.6
+Iran, Islamic Rep.	2017	6,910.6
+Iraq	2017	5,450.0
+Ireland	2017	74,498.4
+Isle of Man	2016	86,912.2
+Israel	2017	34,333.1
+Italy	2017	34,999.9
+Jamaica	2017	4,826.7
+Japan	2017	48,567.4
+Jordan	2017	3,238.3
+Kazakhstan	2017	10,867.7
+Kenya	2017	1,169.2
+Kiribati	2017	1,719.6
+Korea, Dem. People’s Rep.
+Korea, Rep.	2017	26,152.0
+Kosovo	2017	4,058.8
+Kuwait	2017	33,545.6
+Kyrgyz Republic	2017	1,070.9
+Lao PDR	2017	1,730.4
+Latvia	2017	15,532.2
+Lebanon	2017	7,102.6
+Lesotho	2017	1,303.8
+Liberia	2017	544.6
+Libya	2017	7,314.6
+Liechtenstein	2010	141,165.1
+Lithuania	2017	16,838.5
+Luxembourg	2017	106,519.6
+Macao SAR, China	2017	55,936.6
+Madagascar	2017	421.9
+Malawi	2017	486.4
+Malaysia	2017	11,528.3
+Maldives	2017	8,971.1
+Mali	2017	762.9
+Malta	2017	26,988.8
+Marshall Islands	2017	3,491.4
+Mauritania	2017	1,303.4
+Mauritius	2017	10,199.9
+Mexico	2017	9,942.9
+Micronesia, Fed. Sts.	2017	2,919.2
+Moldova	2017	2,165.5
+Monaco	2016	191,586.6
+Mongolia	2017	4,045.7
+Montenegro	2017	7,838.4
+Morocco	2017	3,288.5
+Mozambique	2017	519.1
+Myanmar	2017	1,489.5
+Namibia	2017	5,839.9
+Nauru	2017	10,186.6
+Nepal	2017	732.4
+Netherlands	2017	53,920.0
+New Caledonia
+New Zealand	2017	37,776.0
+Nicaragua	2017	2,016.3
+Niger	2017	396.0
+Nigeria	2017	2,412.2
+North Macedonia	2017	5,253.8
+Northern Mariana Islands	2017	23,711.5
+Norway	2017	91,451.4
+Oman	2017	15,977.2
+Pakistan	2017	1,222.5
+Palau	2017	10,088.4
+Panama	2017	11,524.1
+Papua New Guinea	2017	2,402.4
+Paraguay	2017	5,328.5
+Peru	2017	6,172.7
+Philippines	2017	2,891.4
+Poland	2017	15,823.0
+Portugal	2017	23,197.4
+Puerto Rico	2017	27,689.3
+Qatar	2017	65,694.4
+Romania	2017	11,046.4
+Russian Federation	2017	11,452.3
+Rwanda	2017	764.9
+Samoa	2017	3,860.2
+San Marino	2017	53,770.4
+Sao Tome and Principe	2017	1,305.6
+Saudi Arabia	2017	20,770.9
+Senegal	2017	1,448.1
+Serbia	2017	5,993.5
+Seychelles	2017	14,142.8
+Sierra Leone	2017	462.7
+Singapore	2017	55,235.5
+Sint Maarten (Dutch part)
+Slovak Republic	2017	19,882.5
+Slovenia	2017	25,666.9
+Solomon Islands	2017	1,521.3
+Somalia
+South Africa	2017	7,525.3
+South Sudan
+Spain	2017	32,402.7
+Sri Lanka	2017	3,849.5
+St. Kitts and Nevis	2017	16,568.8
+St. Lucia	2017	8,635.8
+St. Martin (French part)
+St. Vincent and the Grenadines	2017	6,723.2
+Sudan	2017	1,959.2
+Suriname	2017	8,067.5
+Sweden	2017	56,610.7
+Switzerland	2017	77,461.0
+Syrian Arab Republic
+Tajikistan	2017	1,020.1
+Tanzania	2017	894.0
+Thailand	2017	6,126.2
+Timor-Leste	2017	2,672.3
+Togo	2017	649.5
+Tonga	2017	3,862.3
+Trinidad and Tobago	2017	15,350.4
+Tunisia	2017	4,304.0
+Turkey	2017	14,936.4
+Turkmenistan	2017	7,317.5
+Turks and Caicos Islands
+Tuvalu	2017	3,617.5
+Uganda	2017	666.7
+Ukraine	2017	2,996.2
+United Arab Emirates	2017	41,197.2
+United Kingdom	2017	42,692.6
+United States	2017	53,356.2
+Uruguay	2017	14,362.6
+Uzbekistan	2017	2,031.0
+Vanuatu	2017	2,939.5
+Venezuela, RB	2014	13,709.0
+Vietnam	2017	1,834.7
+Virgin Islands (U.S.)	2016	29,729.2
+West Bank and Gaza	2017	2,590.7
+Yemen, Rep.	2017	692.5
+Zambia	2017	1,635.5
+Zimbabwe	2017	1,088.1
+World	2017	10,657.8
